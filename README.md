@@ -1,8 +1,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesshaman&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codesshaman&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codesshaman&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codesshaman&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codesshaman&theme=solarized_dark)
 ____
 | <p align = "left">О себе:<br>Николай Васильев, 30 лет<br>Опыт разработки: 5 лет<br>Сфера: DevOps<br>Образование:<br>МГТУ им.Носова (Магнитогорск)<br>Школа-21 (Сбер)</p> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesshaman&theme=dark&count_private=true&theme=radical)](https://github.com/codesshaman)
 |---|---|
