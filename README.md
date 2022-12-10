@@ -12,4 +12,4 @@
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=codesshaman&color=blue&style=flat&label=visitors" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesshaman&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
