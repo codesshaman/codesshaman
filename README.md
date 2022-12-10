@@ -1,4 +1,4 @@
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesshaman&layout=compact&hide_border=true)](https://github.com/codesshaman?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesshaman&layout=compact&hide_border=true)](https://github.com/codesshaman?tab=repositories)</br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesshaman&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesshaman&theme=solarized_dark)
