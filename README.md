@@ -1,3 +1,8 @@
+По вопросам, связанным со Школой-21/Ecole 42 обращаться в телеграм: @nvasiliev
+
+For questions related to ecole 42/School 21, write to telegram: @nvasiliev
+
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesshaman&layout=compact&hide_border=true)](https://github.com/codesshaman?tab=repositories)</br>
 
 ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesshaman&theme=solarized_dark)
