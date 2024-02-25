@@ -14,6 +14,8 @@ For questions related to ecole 42/School 21, write to telegram: @nvasiliev
 
 [![codesshaman Github stats](https://github-readme-stats.vercel.app/api?username=codesshaman&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/codesshaman?tab=repositories)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codesshaman&theme=dracula)
+
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=codesshaman&color=blue&style=flat&label=visitors" />
 
 
